@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{7E56AE9E-9187-450A-B78D-1D7D401B9036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E56AE9E-9187-450A-B78D-1D7D401B9036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E56AE9E-9187-450A-B78D-1D7D401B9036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E56AE9E-9187-450A-B78D-1D7D401B9036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E56AE9E-9187-450A-B78D-1D7D401B9036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D8EE46-50A1-4626-A2A8-2F9AD6F330CF}
+	EndGlobalSection
+EndGlobal

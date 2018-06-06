@@ -1,0 +1,7 @@
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\ladmin\source\repos\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

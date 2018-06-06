@@ -1,0 +1,7 @@
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb
+C:\Users\ladmin\source\repos\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojAssemblyReference.cache

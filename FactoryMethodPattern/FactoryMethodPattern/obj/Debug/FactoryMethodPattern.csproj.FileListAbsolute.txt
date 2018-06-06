@@ -1,0 +1,7 @@
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojAssemblyReference.cache
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+c:\users\ladmin\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

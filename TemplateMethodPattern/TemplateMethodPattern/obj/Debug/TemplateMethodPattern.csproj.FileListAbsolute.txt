@@ -1,0 +1,6 @@
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\ladmin\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
